@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Java арқылы жасалған Блокчейн</string>
+
+    <string name="log_block_chain_valid">Блокчейн жарамды ма? %1$b</string>
+
+    <string name="action_set_pow">Жұмыс дәлелін орнатыңыз</string>
+    <string name="action_encrypt_data">Хабарды шифрлеу</string>
+    <string name="action_dark_theme">Қара тема</string>
+    <string name="action_more">Қосымша ақпарат</string>
+    <string name="action_exit">Шығу</string>
+
+    <string name="title_block_number" formatted="false">Блок #%d</string>
+    <string name="title_block_previous_hash">Алдыңғы хэш:</string>
+    <string name="title_block_timestamp">Уақыты:</string>
+    <string name="title_block_data">Деректер / Хабарлама:</string>
+    <string name="title_block_hash">Хэш:</string>
+    <string name="title_pow">Жұмыс дәлелі</string>
+    <string name="title_more">Қосымша ақпарат</string>
+
+    <string name="text_creating_block_chain">Күте тұрыңыз. Блокчейн құру…</string>
+    <string name="text_mining_blocks">Күте тұрыңыз. Деректерді енгізу үшін блоктарды іздеу…</string>
+    <string name="text_write_your_message">Өз хабарламаңызды жазыңыз</string>
+    <string name="text_encryption_activated">Шифрлеу іске қосылды</string>
+    <string name="text_encryption_deactivated">Шифрлеу өшірілген</string>
+    <string name="text_set_pow">Жұмыс дәлелін орнатыңыз</string>
+    <string name="text_pow_warning"><b>Абай болыңыз!</b>\n\nБұл параметр тек тестілеуге арналған. Егер сіз бұл мәнді жоғары мәнге өзгертсеңіз,
+қолданбаға хэш жинауға көп уақыт кетуі мүмкін, сіздің құрылғыңыз көбірек процессорды қолданады және оны мұздатуға болады.
+Егер бұл орын алса, бағдарламаны жауып, мәндерді қалпына келтіру үшін Сақтау деректерін тазалап көріңіз.\n\n
+        <b>Ескертпе:</b>Қосымшадағы қолдануға болатын өзгерістер қайта жүктеледі.</string>
+    <string name="text_continue">Мен түсіндім. Жалғастыру және қайта қосу</string>
+    <string name="text_developed_by">Абат Жумабай жасаған</string>
+    <string name="text_app_version">v.1.0.0 - Build 01</string>
+    <string name="text_more_info">Бұл бағдарлама блокчейннің Java көмегімен Android қосымшасы ретінде қалай жұмыс жасайтынын көрсетеді.
+Блокчейн туралы көбірек білу үшін:</string>
+    <string name="text_check_block_chain">Блокчейн бойынша оқу құралы</string>
+    <string name="text_check_white_paper">Биткоиннің ақ кітабы</string>
+    <string name="text_or_read">Немесе оқыңыз:</string>
+    <string name="text_check_book_1">Блокчейн төңкерісі</string>
+    <string name="text_check_book_2">Блокчейн туралы ғылым</string>
+    <string name="text_source_code">Сіз осы қосымшаның бастапқы кодын мына жерден таба аласыз:</string>
+    <string name="text_check_repo">Жобаға Github сілтеме</string>
+    <string name="text_check_post">Орта лауазым</string>
+    <string name="text_bout_me">Мен туралы толығырақ:</string>
+    <string name="text_check_web">Instagram</string>
+    <string name="text_love">&lt;3</string>
+    <string name="text_thank_you">Үлкен рахмет!</string>
+
+    <string name="error_block_chain_corrupted">Блокчейн зақымдалған. Жарамсыз блок салынған</string>
+    <string name="error_something_wrong">Өйткені,</string>
+    <string name="error_empty_data">Сіз бос деректерді жіберуге тырысып жатырсыз</string>
+
+    <string name="cd_send_data">Деректерді жіберу</string>
+    <string name="cd_arrow_back">Dismiss</string>
+    <string name="cd_logo">Blockchain логотипінің мысалы</string>
+
+    <string name="shortcut_restore_pow_short_label">Қалпына келтіру</string>
+    <string name="shortcut_restore_pow_long_label">Қалпына келтіріңіз және ашыңыз</string>
+    <string name="shortcut_disable">Төте жолдар жоқ</string>
+</resources>
